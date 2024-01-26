@@ -18,7 +18,7 @@
 
 ## Task 4
 
-- [ ] `4-index.html` `4-styles.css`
+- [x] `4-index.html` `4-styles.css`
 
 ## Task 5
 
