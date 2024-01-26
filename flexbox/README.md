@@ -38,7 +38,7 @@
 
 ## Task 9
 
-- [ ] `9-index.html` `9-styles.css`
+- [x] `9-index.html` `9-styles.css`
 
 ## Task 10
 
