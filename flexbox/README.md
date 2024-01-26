@@ -30,7 +30,7 @@
 
 ## Task 7
 
-- [ ] `7-index.html` `7-styles.css`
+- [x] `7-index.html` `7-styles.css`
 
 ## Task 8
 
