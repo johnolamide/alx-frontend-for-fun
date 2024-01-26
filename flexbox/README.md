@@ -34,7 +34,7 @@
 
 ## Task 8
 
-- [ ] `8-index.html` `8-styles.css`
+- [x] `8-index.html` `8-styles.css`
 
 ## Task 9
 
