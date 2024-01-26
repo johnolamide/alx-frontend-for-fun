@@ -2,7 +2,7 @@
 
 ## Task 0
 
-- [ ] `0-index.html` `0-styles.css`
+- [x] `0-index.html` `0-styles.css`
 
 ## Task 1
 
