@@ -10,7 +10,7 @@
 
 ## Task 2
 
-- [ ] `2-index.html` `2-styles.css`
+- [x] `2-index.html` `2-styles.css`
 
 ## Task 3
 
