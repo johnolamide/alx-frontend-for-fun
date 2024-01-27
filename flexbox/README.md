@@ -50,7 +50,7 @@
 
 ## Task 12
 
-- [ ] `12-article.html` `12-styles.css`
+- [x] `12-article.html` `12-styles.css`
 
 ## Task 13
 
