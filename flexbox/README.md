@@ -46,7 +46,7 @@
 
 ## Task 11
 
-- [ ] `11-article.html` `11-styles.css`
+- [x] `11-article.html` `11-styles.css`
 
 ## Task 12
 
