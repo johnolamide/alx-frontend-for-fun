@@ -58,7 +58,7 @@
 
 ## Task 14
 
-- [ ] `14-article.html` `14-styles.css`
+- [x] `14-article.html` `14-styles.css`
 
 ## Task 100
 
