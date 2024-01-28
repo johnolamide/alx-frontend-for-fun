@@ -62,7 +62,7 @@
 
 ## Task 100
 
-- [ ] `100-article.html` `100-styles.css`
+- [x] `100-article.html` `100-styles.css`
 
 ## Task 101
 
