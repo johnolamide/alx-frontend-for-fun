@@ -22,7 +22,7 @@
 
 ## Task 5
 
-- [ ] `06-article.html` `06-styles.css`
+- [x] `06-article.html` `06-styles.css`
 
 ## Task 6
 
