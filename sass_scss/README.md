@@ -18,7 +18,7 @@
 
 ## Task 4
 
-- [ ] `4-nested_class.scss`
+- [x] `4-nested_class.scss`
 
 ## Task 5
 
