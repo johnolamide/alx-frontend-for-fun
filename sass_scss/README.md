@@ -2,7 +2,7 @@
 
 ## Task 0
 
-- [ ] `0-debug_log.scss`
+- [x] `0-debug_log.scss`
 
 ## Task 1
 
