@@ -50,7 +50,7 @@
 
 ## Task 12
 
-- [ ] `12-loop_header.scss`
+- [x] `12-loop_header.scss`
 
 ## Task 100
 
