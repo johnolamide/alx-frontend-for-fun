@@ -62,7 +62,7 @@
 
 ## Task 102
 
-- [ ] `102-media_query.scss`
+- [x] `102-media_query.scss`
 
 ## Task 103
 
