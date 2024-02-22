@@ -30,7 +30,7 @@
 
 ## Task 7
 
-- [ ] `7-nested_deeper.scss`
+- [x] `7-nested_deeper.scss`
 
 ## Task 8
 
