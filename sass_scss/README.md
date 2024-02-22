@@ -26,7 +26,7 @@
 
 ## Task 6
 
-- [ ] `6-nested_hover.scss`
+- [x] `6-nested_hover.scss`
 
 ## Task 7
 
