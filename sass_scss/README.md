@@ -10,7 +10,7 @@
 
 ## Task 2
 
-- [ ] `2-color_variable.scss`
+- [x] `2-color_variable.scss`
 
 ## Task 3
 
