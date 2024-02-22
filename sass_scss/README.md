@@ -46,7 +46,7 @@
 
 ## Task 11
 
-- [ ] `11-loop_photos.scss`
+- [x] `11-loop_photos.scss`
 
 ## Task 12
 
