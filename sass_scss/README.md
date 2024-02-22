@@ -42,7 +42,7 @@
 
 ## Task 10
 
-- [ ] `10-import_colors.scss`
+- [x] `10-import_colors.scss`
 
 ## Task 11
 
