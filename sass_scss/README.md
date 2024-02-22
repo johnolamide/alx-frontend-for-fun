@@ -54,7 +54,7 @@
 
 ## Task 100
 
-- [ ] `100-loop_col.scss`
+- [x] `100-loop_col.scss`
 
 ## Task 101
 
