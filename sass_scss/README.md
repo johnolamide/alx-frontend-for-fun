@@ -38,7 +38,7 @@
 
 ## Task 9
 
-- [ ] `9-extend_list.scss`
+- [x] `9-extend_list.scss`
 
 ## Task 10
 
