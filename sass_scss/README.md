@@ -6,7 +6,7 @@
 
 ## Task 1
 
-- [ ] `1-color_variable.scss`
+- [x] `1-color_variable.scss`
 
 ## Task 2
 
