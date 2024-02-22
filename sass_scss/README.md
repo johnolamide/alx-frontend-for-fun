@@ -34,7 +34,7 @@
 
 ## Task 8
 
-- [ ] `8-mixin_margins.scss`
+- [x] `8-mixin_margins.scss`
 
 ## Task 9
 

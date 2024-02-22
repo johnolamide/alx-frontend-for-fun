@@ -1,0 +1,13 @@
+/* Mixin Margins */
+@mixin setMargin($left: 0px, $right: 0px) {
+  margin-left: $left;
+  margin-right: $right;
+}
+
+body {
+  @include setMargin($left: 10px, $right: 10px);
+}
+
+div {
+  @include setMargin($left: 15px, $right: 15px);
+}
