@@ -14,7 +14,7 @@
 
 ## Task 3
 
-- [ ] `3-nested_tag.scss`
+- [x] `3-nested_tag.scss`
 
 ## Task 4
 
