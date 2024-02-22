@@ -22,7 +22,7 @@
 
 ## Task 5
 
-- [ ] `5-nested_child.scss`
+- [x] `5-nested_child.scss`
 
 ## Task 6
 
